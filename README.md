@@ -30,7 +30,7 @@ See also the list of [contributors](https://github.com/techportharcourt/techph.n
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the LGPL-3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
