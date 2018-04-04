@@ -15,7 +15,7 @@ include("layouts/header.php");
             <div class="row remove about">
                 <div class="first-section-div">
                     <div class="first-section ">
-                        <?php 
+                        <?php
                             include("layouts/navbar.php");
                         ?>
                         <div class="col-md-12 firt-section-body">
@@ -49,7 +49,7 @@ include("layouts/header.php");
                     </div>
                 </div>
                 <div class="col-md-4 second-section-bg-image">
-                    
+
                 </div>
             </div>
         </div>
@@ -64,70 +64,37 @@ include("layouts/header.php");
                         Our Volunteer Team
                     </div>
                     <div class="col-md-12 team-slide">
-                        <div class="col-md-4 remove"> 
+                        <div class="col-md-4 remove">
                             <div class="col-md-12 team-img-div">
-                                <img src="images/pprecious.jpg" class="team-member-img"/>
+                                <img src="images/team/precious.jpg" class="team-member-img"/>
                             </div>
                             <div class="col-md-12 team-member-name">
                                 Precious Chukundah
                             </div>
                             <div class="col-md-12 team-member-position">
-                                Product Manager
+                                Programs
                             </div>
                         </div>
-                        <div class="col-md-4 remove"> 
+                        <div class="col-md-4 remove">
                             <div class="col-md-12 team-img-div">
-                                <img src="images/pprecious.jpg" class="team-member-img"/>
+                                <img src="images/team/joshua_josh.jpg" class="team-member-img"/>
                             </div>
                             <div class="col-md-12 team-member-name">
-                                Precious Chukundah
+                                Joshua Joshua
                             </div>
                             <div class="col-md-12 team-member-position">
-                                Product Manager
+                                Sponsorship
                             </div>
                         </div>
-                        <div class="col-md-4 remove"> 
+                        <div class="col-md-4 remove">
                             <div class="col-md-12 team-img-div">
-                                <img src="images/pprecious.jpg" class="team-member-img"/>
+                                <img src="images/team/faith_dike.jpg" class="team-member-img"/>
                             </div>
                             <div class="col-md-12 team-member-name">
-                                Precious Chukundah
+                                Faith Dike
                             </div>
                             <div class="col-md-12 team-member-position">
-                                Product Manager
-                            </div>
-                        </div>
-                        <div class="col-md-4 remove"> 
-                            <div class="col-md-12 team-img-div">
-                                <img src="images/pprecious.jpg" class="team-member-img"/>
-                            </div>
-                            <div class="col-md-12 team-member-name">
-                                Precious Chukundah
-                            </div>
-                            <div class="col-md-12 team-member-position">
-                                Product Manager
-                            </div>
-                        </div>
-                        <div class="col-md-4 remove"> 
-                            <div class="col-md-12 team-img-div">
-                                <img src="images/pprecious.jpg" class="team-member-img"/>
-                            </div>
-                            <div class="col-md-12 team-member-name">
-                                Precious Chukundah
-                            </div>
-                            <div class="col-md-12 team-member-position">
-                                Product Manager
-                            </div>
-                        </div>
-                        <div class="col-md-4 remove"> 
-                            <div class="col-md-12 team-img-div">
-                                <img src="images/pprecious.jpg" class="team-member-img"/>
-                            </div>
-                            <div class="col-md-12 team-member-name">
-                                Precious Chukundah
-                            </div>
-                            <div class="col-md-12 team-member-position">
-                                Product Manager
+                                Community Manager
                             </div>
                         </div>
                     </div>
@@ -183,7 +150,7 @@ include("layouts/header.php");
             </div>
         </section>
 
-    <?php 
+    <?php
     include("layouts/footer.php");
     ?>
 </body>

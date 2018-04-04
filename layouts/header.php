@@ -1,7 +1,7 @@
 <!-- Header -->
 <section>
     <head>
-        <title><?php echo $title." ~"; ?> Tech Ph - 2018</title>
+        <title><?php echo $title." ~"; ?> Tech PH - 2018</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -9,7 +9,6 @@
 
         <!-- Slick -->
         <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
-        
         <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
         <!-- App Styles -->
