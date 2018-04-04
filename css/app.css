@@ -1,0 +1,1182 @@
+@font-face {
+    font-family: 'Mont Serat Regular';
+    src: url(../fonts/Montserat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Mont Serat Medium';
+    src: url(../fonts/Montserat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Mont Serat Bold';
+    src: url(../fonts/Montserat/Montserrat-Bold.ttf);
+}
+
+body {
+    font-family: 'Mont Serat Regular';
+}
+
+.remove-padding {
+    padding: 0;
+}
+
+
+/* Navabr Styles */
+
+.bordered-nav {
+    border: solid #575454 1px;
+    border-left: 0;
+}
+
+.bordered-nav2 {
+    border: solid #575454 1px;
+    border-left: 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand.main-nav {
+    font-family: 'Mont Serat Bold';
+    color: #fff;
+    font-size: 25px;
+    margin-left: 0;
+}
+
+.navbar-brand.main-nav:hover {
+    color: #fff;
+}
+
+.navbar-nav.main-nav>li>a {
+    color: #fff;
+}
+
+.navbar-nav>li>a {
+    color: #fffc;
+}
+
+.navbar-nav>li.active>a {
+    color: #fff;
+    font-weight: 700;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.scrolled-navbar {
+    background-color: #2d2d2d;
+}
+
+.events-navbar {
+    background-color: #2d2d2d;
+}
+
+
+/* First Section styles */
+
+.first-section {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+}
+
+.first-section-div {
+    background-image: url('../images/slider.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.firt-section-body {
+    text-align: center;
+    margin-top: 190px;
+    padding: 0px 60px;
+}
+
+
+/* About Page fisrt Section styles */
+
+.about>div>.first-section {
+    background: rgba(0, 0, 0, 0.7);
+    height: 65vh;
+}
+
+.about>.first-section-div {
+    background-image: url('../images/slider.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 65vh;
+}
+
+.about>div>div>.firt-section-body {
+    text-align: center;
+    margin-top: 120px;
+    padding: 0px 60px;
+}
+
+.div-1-h1 {
+    font-weight: 700;
+    color: #dddd;
+    font-size: 14px;
+}
+
+.about>div>div>div>.div-1-h1 {
+    font-weight: 700;
+    color: #dddd;
+    font-size: 14px;
+    top: 115px;
+}
+
+.div-1-b1 {
+    font-family: 'Mont Serat Bold';
+    font-weight: bold;
+    color: #fff;
+    font-size: 43px;
+    margin-bottom: 10px;
+    padding: 0 130px;
+}
+
+.btn-explore {
+    border-radius: 50px;
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 5px 27px;
+}
+
+.btn-explore:hover,
+.btn-explore:after {
+    color: #fff;
+}
+
+
+/* Events Page First Section */
+
+.events>.first-section {
+    background: #EEF2F5;
+    height: 120vh;
+}
+
+.events-section-body {
+    text-align: center;
+    margin-top: 25px;
+    padding: 0px 60px;
+}
+
+.h1 {
+    font-size: 41px;
+}
+
+.h2 {
+    font-size: 30px;
+}
+
+.events-h {
+    font-family: 'Mont Serat Bold';
+    color: #2D2D2D;
+}
+
+.event-date {
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.event-pic {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.event-info {
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.event-img {
+    height: auto;
+    width: 100%;
+}
+
+.event-text {
+    color: #2D2D2DCC;
+    margin: 5px 0;
+}
+
+.event-info-footer {
+    margin: 20px 0;
+}
+
+.event-see-more {
+    color: #27CAA4;
+}
+
+.event-see-more:hover {
+    color: #1eebbb;
+}
+
+.btn-get-tickets {
+    border-radius: 50px;
+    color: #2D2D2D;
+    background-color: transparent;
+    border-color: #2D2D2D;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 8px 27px;
+}
+
+.btn-get-tickets:hover,
+.btn-get-tickets:after {
+    color: #2D2D2D;
+}
+
+
+/* Second Section Styles */
+
+.company-logo {
+    height: auto;
+    width: 116px;
+    opacity: 0.5;
+}
+
+.company-logos {
+    background: #E9E9E9;
+    padding: 10px;
+}
+
+.margined-logo1 {
+    margin: 30px 0;
+}
+
+.margined-logo1 {
+    margin: 20px 0;
+}
+
+.special-logo {
+    width: 60px;
+}
+
+.logo {
+    display: inline-block;
+    margin: 0 30px;
+}
+
+
+/* About Page Second Section Styles */
+
+.about>.second-section-bg-image {
+    background-image: url('../images/tphc3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.about>.second-section-body {
+    height: 90vh;
+    padding: 100px 200px;
+}
+
+.about>div>.div-2-h1 {
+    font-family: 'Mont Serat Bold';
+    font-size: 40px;
+    padding: 0 15px;
+    margin: 0;
+    color: #2D2D2D;
+}
+
+.about>div>.div-2-b1 {
+    font-size: 15px;
+    margin: 40px 0;
+    padding-right: 55px;
+    color: #2D2D2DB3;
+}
+
+.about>div>.div-2-b2>a {
+    margin-right: 10px;
+}
+
+.about>div>div>.btn-volunteer {
+    border-radius: 50px;
+    color: #2D2D2DB3;
+    background-color: transparent;
+    border: solid #2D2D2D 2px;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+.about>div>div>.btn-volunteer:hover,
+.about>div>div>.btn-volunteer:after {
+    color: #2D2D2D;
+}
+
+
+/* Events Page Second Section Styles */
+
+.sponsor-logos-div {
+    background-color: #EEF2F5;
+    padding: 150px 100px;
+}
+
+.sponsor-logos {
+    padding-bottom: 80px;
+}
+
+.sponsor-logos>div {
+    display: inline-block;
+    margin: 0 70px;
+}
+
+.sponsor-logo {
+    height: auto;
+    width: 100px;
+}
+
+.event-special-logo {
+    width: 50px;
+}
+
+.btn-event-sponsor {
+    border-radius: 50px;
+    color: #fff;
+    background-color: #1E7A64;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 27px;
+}
+
+.btn-event-sponsor:hover,
+.btn-event-sponsor:after {
+    color: #fff;
+}
+
+
+/* Community Page Second Section Styles */
+
+.tabs-div {
+    background-color: #E9E9E9;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    background-color: #2D2D2D;
+    color: #fff;
+    border: 0;
+    border-radius: 0;
+    font-size: 20px;
+    font-family: 'Mont Serat Medium';
+}
+
+.nav-tabs>li>a,
+.nav-tabs>li>a:focus,
+.nav-tabs>li>a:hover {
+    color: #2D2D2D;
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    font-size: 20px;
+    font-family: 'Mont Serat Medium';
+    padding: 30px 40px;
+}
+
+.new-group-div {
+    height: 300px;
+    padding: 130px;
+}
+
+
+/* Third Section Styles */
+
+.thrid-section-div {
+    background-color: #EEF2F5;
+    padding: 120px;
+}
+
+.thrid-section-div>div>i {
+    color: #5C477F;
+    font-size: 130px;
+    margin-top: 46px;
+    margin-right: 20px;
+}
+
+.div-3-h1 {
+    font-family: 'Mont Serat Bold';
+    color: #2D2D2D;
+    font-size: 41px;
+    padding-right: 40px;
+}
+
+.div-3-b1 {
+    color: #4B4B4B;
+    font-size: 18px;
+    padding-right: 110px;
+}
+
+
+/* About Page Third Section Styles */
+
+.third-section-div {
+    background-color: #EEF2F5;
+    padding: 120px;
+}
+
+.team-member-name {
+    font-family: 'Mont Serat Bold';
+    font-size: 20px;
+    color: #2D2D2D;
+    margin: 10px 0;
+}
+
+.team-member-position {
+    font-size: 13px;
+    color: #2D2D2D;
+}
+
+.team-member-img {
+    height: auto;
+    width: 100%;
+}
+
+.about>div>.div-3-h1 {
+    font-family: 'Mont Serat Bold';
+    color: #2D2D2D;
+    font-size: 40px;
+    margin-bottom: 70px;
+}
+
+.slick-prev,
+.slick-next {
+    top: 40%;
+}
+
+.slick-prev {
+    left: 44px;
+    z-index: 20;
+}
+
+.slick-next {
+    right: 44px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-size: 25px;
+}
+
+.slick-list {
+    margin: 0;
+}
+
+
+/* Fourth Section Styles */
+
+.fourth-section-bg-image {
+    background-image: url('../images/tphc2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.fourth-section-body {
+    height: 90vh;
+    padding: 80px 50px;
+}
+
+.div-4-h1 {
+    font-family: 'Mont Serat Bold';
+    color: #169AE7;
+    font-size: 80px;
+    padding: 0 15px;
+    margin: 0;
+}
+
+.div-4-h2 {
+    font-family: 'Mont Serat Bold';
+    color: #2D2D2D;
+    font-size: 25px;
+    margin-top: -15px;
+}
+
+.div-4-b1 {
+    color: #4B4B4B;
+    font-size: 16px;
+    margin: 40px 0;
+    padding-right: 40px;
+}
+
+.div-4-b2>btn {
+    margin: 0 10px;
+}
+
+.btn-fb {
+    border-radius: 50px;
+    color: #169AE7;
+    background-color: transparent;
+    border-color: #169AE7;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+.btn-fb:hover,
+.btn-fb:after {
+    color: #169AE7;
+}
+
+.btn-slack {
+    border-radius: 50px;
+    color: #fff;
+    background-color: #1E7A64;
+    border-color: #1E7A64;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+.btn-slack:hover,
+.btn-slack:after {
+    color: #fff;
+}
+
+.div-4-b2>a {
+    margin-right: 10px;
+}
+
+
+/* ABout Paage fourth Section Styles */
+
+.fb-buttons>a {
+    margin: 0 20px;
+}
+
+.fb-buttons {
+    padding: 120px;
+}
+
+
+/* fifth Section Styles */
+
+.fifth-section-bg-image {
+    background-image: url('../images/tphc3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.fifth-section-body {
+    background-color: #353D40;
+    height: 90vh;
+    padding: 80px 50px;
+}
+
+.div-5-h1 {
+    font-family: 'Mont Serat Bold';
+    font-size: 40px;
+    padding: 0 15px;
+    margin: 0;
+    color: #FFFFFF;
+}
+
+.div-5-b1 {
+    font-size: 15px;
+    margin: 40px 0;
+    padding-right: 40px;
+    color: #FFFC;
+}
+
+.btn-volunteer {
+    border-radius: 50px;
+    color: #FFFFFFE6;
+    background-color: transparent;
+    border-color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+.btn-volunteer:hover,
+.btn-volunteer:after {
+    color: #fff;
+}
+
+.btn-sponsor {
+    border-radius: 50px;
+    color: #fff;
+    background-color: #1E7A64;
+    border-color: #1E7A64;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+.btn-sponsor:hover,
+.btn-sponsor:after {
+    color: #fff;
+}
+
+.div-5-b2>a {
+    margin-right: 10px;
+}
+
+
+/* Sixth Section Styles */
+
+.Sixth-Section-div {
+    padding: 120px;
+}
+
+.div-6-h1 {
+    font-family: 'Mont Serat Bold';
+    font-size: 33px;
+    text-align: left;
+    color: #2D2D2D;
+}
+
+.div-6-b1 {
+    margin-top: 20px;
+    text-align: left;
+    color: #4B4B4B;
+    font-size: 14px;
+}
+
+.card {
+    -webkit-box-shadow: 0 3px 6px #ddd;
+    box-shadow: 0 3px 6px #ddd;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card-header {
+    padding: 15px;
+    text-align: left;
+}
+
+.card-footer {
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    color: #2D2D2D;
+    padding: 15px;
+}
+
+.card-head-1 {
+    color: #FF3C00;
+    font-size: 13px;
+    font-weight: 600;
+    float: left;
+    padding-left: 20px;
+}
+
+.card-head-2 {
+    color: #969696;
+    font-size: 12px;
+    font-weight: 600;
+    float: right;
+    padding-right: 20px;
+}
+
+.card-head-3 {
+    text-align: left;
+    padding-left: 20px;
+    color: #686666;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.card-img {
+    height: auto;
+    width: 100%;
+}
+
+
+/* Sevnth Section */
+
+.secventh-section-div {
+    padding: 120px 70px;
+    background-color: #EEF2F5;
+    width: 100%;
+}
+
+.div-7-h1 {
+    font-family: 'Mont Serat Bold';
+    color: #2D2D2D;
+    font-weight: 600;
+    font-size: 41px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card-stlye {
+    padding: 60px 33px;
+    background-color: #fff;
+}
+
+.card-stlye1 {
+    color: #169AE7;
+    font-weight: bold;
+}
+
+.card-stlye2 {
+    color: #2D2D2D;
+    font-weight: bold;
+}
+
+.card-stlye3 {
+    color: #a2a2a2;
+    font-weight: bold;
+}
+
+.card-style4 {
+    font-weight: bold;
+}
+
+
+/* Eight Section Styles */
+
+.quote {
+    color: #27CAA4;
+    font-size: 80px;
+    margin-top: 89px;
+}
+
+.Hub-header {
+    font-family: 'Mont Serat Bold';
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.hub-body {
+    color: #fffc;
+    margin-top: 20px;
+}
+
+.hub-footer {
+    color: #27CAA4CC;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.eight-section-div {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 120px 70px;
+    background-color: #5C477F;
+    width: 100%;
+}
+
+.carousel-indicators {
+    bottom: -40px;
+    text-align: right;
+}
+
+.carousel-indicators li {
+    width: 5px;
+    height: 5px;
+    background-color: #fff;
+    margin: 0 5px;
+}
+
+.carousel-indicators .active {
+    margin: 0 5px;
+    width: 5px;
+    height: 5px;
+    background-color: #27CAA4;
+    border: solid #27CAA4 1px;
+}
+
+
+/* Ninth Section Styles */
+
+.ninth-section {
+    background: rgba(0, 0, 0, 0.7);
+    height: 90vh;
+}
+
+.ninth-section-div {
+    background-image: url('../images/slider.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.ninth-section-body {
+    text-align: center;
+    margin-top: 165px;
+    padding: 0px 60px;
+}
+
+.div-9-h1 {
+    color: #fffc;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.div-9-h2 {
+    font-family: 'Mont Serat Bold';
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+    font-size: 43px;
+    margin-bottom: 30px;
+}
+
+.div-9-b2 {
+    font-size: 19px;
+    color: #fffc;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.sign_up.form-control::-webkit-input-placeholder {
+    color: #fffc;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+.sign_up.form-control::-moz-placeholder {
+    color: #fffc;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+.sign_up.form-control:-ms-input-placeholder {
+    color: #fffc;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+.sign_up.form-control:-o-input-placeholder {
+    color: #fffc;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+.sign_up.form-control {
+    background-color: transparent;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    padding-left: 35px;
+    border: solid #ddd 0.5px;
+    color: #fff;
+}
+
+.btn-sign_up {
+    background-color: #169AE7;
+    color: #fff;
+    border-color: #169AE7;
+    border-radius: 50px;
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btn-sign_up:hover,
+.btn-sign_up:after {
+    color: #fff;
+}
+
+
+/* Footer Styles */
+
+.footer {
+    background-color: #EEF2F5;
+    color: rgba(45, 45, 45, 0.7);
+    padding: 120px;
+    padding-bottom: 60px;
+}
+
+.div-footer-h1 {
+    font-family: 'Mont Serat Bold';
+    font-size: 33px;
+    color: #2D2D2D;
+}
+
+.div-footer-b1 {
+    font-size: 15px;
+    margin: 30px 0;
+}
+
+.btn-contact {
+    border-radius: 50px;
+    color: #fff;
+    background-color: #1E7A64;
+    border-color: #1E7A64;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 5px 15px;
+    width: 100px;
+}
+
+.btn-contact:hover,
+.btn-contact:after {
+    color: #fff;
+}
+
+.footer-icons>a>i {
+    font-size: 25px;
+    color: #2D2D2D;
+    margin-right: 50px;
+}
+
+.contact-div-h1 {
+    color: #2D2D2D;
+    font-size: 25px;
+    margin: 30px 0;
+}
+
+.footers-footer {
+    margin-left: 15px;
+    padding: 60px 15px;
+}
+
+.contact-div-b1>a {
+    color: rgba(45, 45, 45, 0.7);
+}
+
+
+/* Responsive Design */
+
+@media (max-width: 800px) {
+    /*********** Nav *************/
+    .icon-bar {
+        background-color: #fff;
+    }
+    .first-section-div {
+        height: 80vh;
+    }
+    .first-section {
+        height: 80vh;
+    }
+    .firt-section-body {
+        text-align: center;
+        margin-top: 100px;
+        padding: 15px 0;
+    }
+    .div-1-h1 {
+        font-size: 14px;
+    }
+    .div-1-b1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        padding: 15px;
+    }
+    /* About Page First Section */
+    .about>.first-section-div {
+        height: auto;
+    }
+    .about>div>.first-section {
+        height: auto;
+    }
+    .about>div>div>.firt-section-body {
+        text-align: center;
+        margin-top: 50px;
+        padding: 0px 60px;
+        padding-bottom: 20px;
+    }
+    .div-1-b1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        padding: 15px;
+    }
+    .about>div>div>div>.div-1-h1 {
+        font-size: 14px;
+        top: auto;
+        bottom: 10px;
+    }
+    /* Events Page First Section */
+    .events>.first-section {
+        height: auto;
+    }
+    .h1 {
+        font-size: 30px;
+    }
+    .event-body {
+        margin: 70px 0px;
+    }
+    .events-section-body {
+        padding: 30px 15px;
+    }
+    .event-pic {
+        margin-top: 20px;
+    }
+    /* Second Section */
+    .company-logo {
+        width: 50px;
+        margin: 0 5px;
+    }
+    .special-logo {
+        width: 45px;
+    }
+    .logo {
+        margin: 0px;
+    }
+    /* About Page Second Section */
+    .about>.second-section-body {
+        height: auto;
+        padding: 100px 15px;
+        text-align: center;
+    }
+    .about>div>.div-2-h1 {
+        font-size: 20px;
+    }
+    .about>div>.div-2-b1 {
+        padding-right: 15px;
+    }
+    .about>.second-section-bg-image {
+        height: 50vh;
+    }
+    /* Events Page Second Section */
+    .sponsor-logo {
+        height: auto;
+        width: 100%;
+        margin: 25px 0;
+    }
+    .sponsor-logos-div {
+        background-color: #EEF2F5;
+        padding: 70px 15px;
+    }
+    .event-special-logo {
+        width: 100px;
+    }
+    /* Community Apge Styles */
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:focus,
+    .nav-tabs>li.active>a:hover {
+        font-size: 12px;
+        border: none;
+    }
+    .nav-tabs>li>a,
+    .nav-tabs>li>a:focus,
+    .nav-tabs>li>a:hover {
+        font-size: 12px;
+        padding: 10px 15px;
+        border: none;
+    }
+    .nav>li>a {
+        padding: 10px 15px;
+        border: none;
+    }
+    /* Third Section */
+    .thrid-section-div {
+        padding: 15px;
+        padding-top: 50px;
+        height: 60vh;
+    }
+    .div-3-h1 {
+        font-family: 'Mont Serat Bold';
+        color: #2D2D2D;
+        font-size: 25px;
+        text-align: center;
+    }
+    .div-3-b1 {
+        color: #4B4B4B;
+        font-size: 14px;
+        text-align: center;
+        margin-top: 20px;
+        padding-right: 15px;
+    }
+    /* coomunity Page Third Section */
+    .new-group-div {
+        height: auto;
+        padding: 130px 15px;
+    }
+    /* About Page */
+    .third-section-div {
+        padding: 70px 15px;
+    }
+    .about>div>.div-3-h1 {
+        font-size: 25px;
+        margin-bottom: 70px;
+    }
+    /* Fourth Section */
+    .fourth-section-bg-image {
+        height: 50vh;
+    }
+    .fourth-section-body {
+        height: auto;
+        padding: 50px 15px;
+        text-align: center;
+    }
+    /* Fifth Section  */
+    .fifth-section-bg-image {
+        height: 50vh;
+    }
+    .fifth-section-body {
+        height: auto;
+        padding: 50px 15px;
+        text-align: center;
+    }
+    /* Sixth Section */
+    .Sixth-Section-div {
+        padding: 50px 15px;
+    }
+    .div-6-h1 {
+        font-family: 'Mont Serat Bold';
+        font-size: 30px;
+        text-align: left;
+        color: #2D2D2D;
+        text-align: center;
+    }
+    .div-6-b1 {
+        margin-top: 20px;
+        text-align: center;
+        color: #4B4B4B;
+        font-size: 14px;
+        margin-bottom: 70px;
+    }
+    .card {
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+    /* Seventh Scetion */
+    .secventh-section-div {
+        padding: 70px 15px;
+    }
+    /* Eight Section */
+    .eight-section-div {
+        padding: 70px 0px;
+    }
+    /* Ninth Section */
+    .ninth-section-div {
+        height: auto;
+    }
+    .ninth-section {
+        background: rgba(0, 0, 0, 0.7);
+        height: auto;
+    }
+    .ninth-section-body {
+        text-align: center;
+        margin-top: 0;
+        padding: 70px 0px;
+    }
+    .div-9-h2 {
+        font-size: 35px;
+    }
+    .div-9-b2 {
+        font-size: 12px;
+    }
+    /* Footer */
+    .footer {
+        padding: 120px 15px;
+        padding-bottom: 70px;
+    }
+    .pad-on-mobile {
+        margin-bottom: 70px;
+    }
+}
