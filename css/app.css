@@ -1,20 +1,20 @@
 @font-face {
-    font-family: 'Mont Serat Regular';
+    font-family: 'Montserat Regular';
     src: url(../fonts/Montserat/Montserrat-Regular.ttf);
 }
 
 @font-face {
-    font-family: 'Mont Serat Medium';
+    font-family: 'Montserat Medium';
     src: url(../fonts/Montserat/Montserrat-Medium.ttf);
 }
 
 @font-face {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     src: url(../fonts/Montserat/Montserrat-Bold.ttf);
 }
 
 body {
-    font-family: 'Mont Serat Regular';
+    font-family: 'Montserat Regular';
 }
 
 .remove-padding {
@@ -37,7 +37,7 @@ body {
 }
 
 .navbar-brand.main-nav {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #fff;
     font-size: 25px;
     margin-left: 0;
@@ -131,7 +131,7 @@ body {
 }
 
 .div-1-b1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     font-weight: bold;
     color: #fff;
     font-size: 43px;
@@ -177,7 +177,7 @@ body {
 }
 
 .events-h {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #2D2D2D;
 }
 
@@ -282,7 +282,7 @@ body {
 }
 
 .about>div>.div-2-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     font-size: 40px;
     padding: 0 15px;
     margin: 0;
@@ -371,7 +371,7 @@ body {
     border: 0;
     border-radius: 0;
     font-size: 20px;
-    font-family: 'Mont Serat Medium';
+    font-family: 'Montserat Medium';
 }
 
 .nav-tabs>li>a,
@@ -382,7 +382,7 @@ body {
     border: 0;
     border-radius: 0;
     font-size: 20px;
-    font-family: 'Mont Serat Medium';
+    font-family: 'Montserat Medium';
     padding: 30px 40px;
 }
 
@@ -407,7 +407,7 @@ body {
 }
 
 .div-3-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #2D2D2D;
     font-size: 41px;
     padding-right: 40px;
@@ -428,7 +428,7 @@ body {
 }
 
 .team-member-name {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     font-size: 20px;
     color: #2D2D2D;
     margin: 10px 0;
@@ -445,7 +445,7 @@ body {
 }
 
 .about>div>.div-3-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #2D2D2D;
     font-size: 40px;
     margin-bottom: 70px;
@@ -490,7 +490,7 @@ body {
 }
 
 .div-4-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #169AE7;
     font-size: 80px;
     padding: 0 15px;
@@ -498,7 +498,7 @@ body {
 }
 
 .div-4-h2 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #2D2D2D;
     font-size: 25px;
     margin-top: -15px;
@@ -579,7 +579,7 @@ body {
 }
 
 .div-5-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     font-size: 40px;
     padding: 0 15px;
     margin: 0;
@@ -637,7 +637,7 @@ body {
 }
 
 .div-6-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     font-size: 33px;
     text-align: left;
     color: #2D2D2D;
@@ -709,7 +709,7 @@ body {
 }
 
 .div-7-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #2D2D2D;
     font-weight: 600;
     font-size: 41px;
@@ -751,7 +751,7 @@ body {
 }
 
 .Hub-header {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #FFFFFF;
     font-size: 40px;
     font-weight: 600;
@@ -828,7 +828,7 @@ body {
 }
 
 .div-9-h2 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     color: #fff;
     font-weight: 600;
     text-align: center;
@@ -902,7 +902,7 @@ body {
 }
 
 .div-footer-h1 {
-    font-family: 'Mont Serat Bold';
+    font-family: 'Montserat Bold';
     font-size: 33px;
     color: #2D2D2D;
 }
@@ -1079,7 +1079,7 @@ body {
         height: 60vh;
     }
     .div-3-h1 {
-        font-family: 'Mont Serat Bold';
+        font-family: 'Montserat Bold';
         color: #2D2D2D;
         font-size: 25px;
         text-align: center;
@@ -1127,7 +1127,7 @@ body {
         padding: 50px 15px;
     }
     .div-6-h1 {
-        font-family: 'Mont Serat Bold';
+        font-family: 'Montserat Bold';
         font-size: 30px;
         text-align: left;
         color: #2D2D2D;
