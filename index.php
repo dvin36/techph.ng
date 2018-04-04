@@ -15,7 +15,7 @@ include("layouts/header.php");
             <div class="row remove">
                 <div class="first-section-div ">
                     <div class="first-section">
-                        <?php 
+                        <?php
                             include("layouts/navbar.php");
                         ?>
                         <div class="col-md-12 firt-section-body">
@@ -34,7 +34,7 @@ include("layouts/header.php");
                                 </div>
                             </div>
                             <div class="col-md-2">
-                                
+
                             </div>
                         </div>
                     </div>
@@ -69,13 +69,13 @@ include("layouts/header.php");
                         </div>
                     </div>
                     <div class="col-md-2">
-                    
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
-   
+
     <!-- Third Section -->
     <section>
         <div class="container-fluid remove">
@@ -127,7 +127,7 @@ include("layouts/header.php");
     <section>
         <div class="container-fluid remove">
             <div class="row remove">
-               
+
                 <div class="col-md-4 fifth-section-body">
                     <div class="col-md-12 div-5-h1">
                         We project tech in<br> Port Harcourt
@@ -142,7 +142,7 @@ include("layouts/header.php");
                     </div>
                 </div>
                 <div class="col-md-8  fifth-section-bg-image">
-                    
+
                 </div>
             </div>
         </div>
@@ -153,15 +153,15 @@ include("layouts/header.php");
         <div class="container">
             <div class="row">
                 <div class="col-md-12 Sixth-Section-div">
-                   
+
                     <div class="col-sm-4">
                         <div class="col-md-12 div-6-h1">
                             Programmes & Upcoming Events
                         </div>
                         <div class="col-md-12  div-6-b1">
-                            Find events from different tech communities in the 
+                            Find events from different tech communities in the
                             <br>
-                            eco-system. 
+                            eco-system.
                             <br><br>
                             Stay up to date with Tech PH programmes.
                         </div>
@@ -184,7 +184,7 @@ include("layouts/header.php");
                             <img src="images/tphc3.jpg" class="card-img"/>
                         </div>
                     </div>
-                   
+
                 </div>
             </div>
         </div>
@@ -257,10 +257,10 @@ include("layouts/header.php");
                                 </div>
                                 <div class="col-md-9 col-xs-12 col-sm-12">
                                     <div class="col-md-12 Hub-header">
-                                        Rudigo
+                                        SprintLabs
                                     </div>
                                     <div class="col-md-12 hub-body">
-                                        Rudigo sources for young, smart folks with no current engagement, take them off the<br>
+                                        SprintLabs sources for young, smart folks with no current engagement, take them off the<br>
                                         streets, train and equip them with highly soft-after skills in the information technology<br>
                                         space, and expose them to companies, agencies and individuals requiring their services.
                                     </div>
@@ -276,12 +276,12 @@ include("layouts/header.php");
                                 </div>
                                 <div class="col-md-9 col-xs-12 col-sm-12">
                                     <div class="col-md-12 Hub-header">
-                                        Rudigo
+                                        Chigisoft
                                     </div>
                                     <div class="col-md-12 hub-body">
-                                        Rudigo sources for young, smart folks with no current engagement, take them off the<br>
-                                        streets, train and equip them with highly soft-after skills in the information technology<br>
-                                        space, and expose them to companies, agencies and individuals requiring their services.
+                                      Chigisoft is an innovative ICT establishment that provides cutting edge and state-of-the-art
+                                      ICT solutions that are cost-effective, scalable, secure and ingenious to improve your
+                                      business and enable you achieve your goals. RC: 1370719
                                     </div>
                                     <div class="col-md-12 hub-footer">
                                         <span class="">#TechPH_Showcase</span>
@@ -289,19 +289,18 @@ include("layouts/header.php");
                                     </div>
                                 </div>
                             </div>
-                    
+
                             <div class="item">
                                 <div class="col-md-3 hidden-xs hidden-sm quote" align="right">
                                     <i class="fa fa-quote-left"></i>
                                 </div>
                                 <div class="col-md-9 col-xs-12 col-sm-12">
                                     <div class="col-md-12 Hub-header">
-                                        Rudigo
+                                        UNICORN.NG
                                     </div>
                                     <div class="col-md-12 hub-body">
-                                        Rudigo sources for young, smart folks with no current engagement, take them off the<br>
-                                        streets, train and equip them with highly soft-after skills in the information technology<br>
-                                        space, and expose them to companies, agencies and individuals requiring their services.
+                                        UNICORN.NG is Building the fastest and most intuitive way to securely
+                                        store, buy, sell, trade and learn about bitcoin and cryptocurrencies in Africa.
                                     </div>
                                     <div class="col-md-12 hub-footer">
                                         <span class="">#TechPH_Showcase</span>
@@ -309,17 +308,17 @@ include("layouts/header.php");
                                     </div>
                                 </div>
                             </div>
-                        
+
                             <div class="item">
                                 <div class="col-md-3 hidden-xs hidden-sm quote" align="right">
                                     <i class="fa fa-quote-left"></i>
                                 </div>
                                 <div class="col-md-9 col-xs-12 col-sm-12">
                                     <div class="col-md-12 Hub-header">
-                                        Rudigo
+                                        SprintLabs
                                     </div>
                                     <div class="col-md-12 hub-body">
-                                        Rudigo sources for young, smart folks with no current engagement, take them off the<br>
+                                        SprintLabs sources for young, smart folks with no current engagement, take them off the<br>
                                         streets, train and equip them with highly soft-after skills in the information technology<br>
                                         space, and expose them to companies, agencies and individuals requiring their services.
                                     </div>
@@ -329,7 +328,7 @@ include("layouts/header.php");
                                     </div>
                                 </div>
                             </div>
-                            
+
                         </div>
                     <!-- Indicators -->
                         <ol class="carousel-indicators col-md-12">
@@ -377,7 +376,7 @@ include("layouts/header.php");
         </div>
     </section>
 
-    <?php 
+    <?php
     include("layouts/footer.php");
     ?>
 </body>
